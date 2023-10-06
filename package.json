@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/trias-team-project/",
+    "build": "vite build --base=/html-css_96_YevheniiSer/",
     "preview": "vite preview"
   },
   "devDependencies": {
